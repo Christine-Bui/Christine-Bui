@@ -58,11 +58,9 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="192px"/>
+&nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="192px"/>
   <br/>
   </p>
 </details>
@@ -73,8 +71,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christine-Bui&repo=FLIP&theme=onedark" />
 </a>  
-
-
+&nbsp;
 <a href="https://github.com/Dpenate-AD23/AntiPhish-Outlook">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christine-Bui&repo=AntiPhish-Outlook&theme=onedark" />
