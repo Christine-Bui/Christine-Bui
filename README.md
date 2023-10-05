@@ -74,7 +74,7 @@
 &nbsp;
 <a href="https://github.com/Dpenate-AD23/AntiPhish-Outlook">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christine-Bui&repo=AntiPhish-Outlook&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dpenate-AD23&repo=AntiPhish-Outlook&theme=onedark" />
 </a> 
 
 <!--
