@@ -58,9 +58,9 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="180px"/></a>
 &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="180px"/>
   <br/>
   </p>
 </details>
