@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m Christine
 - 💼 I'm a Computer Science Student at CSULB
-- 💬 Talk to me about freelancing opportunities in web or mobile app development and software engineering
+- 💬 Talk to me about opportunities in web or mobile app development and software engineering
 - 👯 I’m looking to collaborate on frontend or backend software engineering projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -50,8 +50,6 @@
 <a href="https://www.mysql.com/">
 <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
-
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
