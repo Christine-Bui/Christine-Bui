@@ -52,17 +52,9 @@
 </a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="180px"/></a>
 &nbsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="180px"/>
-  <br/>
-  </p>
-</details>
-<br/>
 
 ## Popular Projects
 <a href="https://github.com/Christine-Bui/FLIP">
