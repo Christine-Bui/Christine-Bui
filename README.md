@@ -13,10 +13,10 @@
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE7A16?style=for-the-badge&logo=youtube&logoColor=white">
   </a>  
 
-- 👋 Hi, I’m Christine
-- 💼 I'm a Computer Science Student at CSULB
+- 👋🏻 Hi, I’m Christine
+- 🎓 I'm a Computer Science Graduate at CSULB
 - 💬 Talk to me about opportunities in web or mobile app development and software engineering
-- 👯 I’m looking to collaborate on frontend or backend software engineering projects
+- 🤝🏻 I’m looking to collaborate on frontend or backend software engineering projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
