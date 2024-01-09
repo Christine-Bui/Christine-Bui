@@ -51,11 +51,15 @@
 <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
 
-<h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="180px"/></a>
-&nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="180px"/>
-
+<h2> Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
+    <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 20px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="Christine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Christine-Bui&show_icons=true&count_private=true&theme=algolia" height="180px"/>
+        </a>
+        &nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Bui&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Christine-Bui" height="180px"/>
+    </div>
+    
 ## Popular Projects
 <a href="https://github.com/Christine-Bui/FLIP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
