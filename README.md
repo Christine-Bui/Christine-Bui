@@ -15,6 +15,8 @@
 
 - 👋🏻 Hi, I’m Christine
 - 🎓 I'm a Computer Science Graduate at CSULB
+- 🇻🇳 I'm fluent with English and Vietnamese
+- 🫶🏻 My other hobbies are playing badminton, watching movies, and traveling.
 - 💬 Talk to me about opportunities in web or mobile app development and software engineering
 - 🤝🏻 I’m looking to collaborate on frontend or backend software engineering projects
 
