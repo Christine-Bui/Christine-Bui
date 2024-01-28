@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/christine-bui-6a6ab6294/" target="_blank">
