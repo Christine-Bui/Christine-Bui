@@ -15,6 +15,7 @@
 
 - 👋🏻 Hi, I’m Christine
 - 🎓 I'm a Computer Science Graduate at CSULB
+- 💼 I am currently a STEM Teacher at Brain Builders. 
 - 🇻🇳 I'm fluent with English and Vietnamese
 - 🫶🏻 My hobbies are playing badminton, watching movies, and traveling
 - 💬 Talk to me about opportunities in web or mobile app development and software engineering
