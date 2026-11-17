@@ -14,12 +14,12 @@
   </a>  
 
 - 👋🏻 Hi, I’m Christine
-- 🎓 I'm a Computer Science Graduate at CSULB
-- 💼 I am currently a STEM Teacher at Brain Builders. 
+- 🎓 I graduated from CSULB in 2023 with a Bachelors in Computer Science
+- 💼 I am currently a STEM Teacher at Brain Builders 
 - 🇻🇳 I'm fluent with English and Vietnamese
 - 🫶🏻 My hobbies are playing badminton, watching movies, and traveling
-- 💬 Talk to me about opportunities in web or mobile app development and software engineering
-- 🤝🏻 I’m looking to collaborate on frontend or backend software engineering projects
+- 💬 Talk to me about opportunities in CAD or mobile app development
+- 🤝🏻 I’m looking to collaborate on app development or designing in CAD.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
