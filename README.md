@@ -38,22 +38,6 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white">
   </a>
 
-<a href="https://jupyter.org/" target="_blank">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-</a>
-
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-<a href="https://www.mysql.com/">
-<img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
 <!--
 **Christine-Bui/Christine-Bui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
